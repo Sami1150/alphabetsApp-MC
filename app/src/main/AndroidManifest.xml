@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Aphabets"
+            android:exported="false" />
+        <activity
+            android:name=".Alphabets_home"
+            android:exported="false" />
+        <activity
+            android:name=".QiuzActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
