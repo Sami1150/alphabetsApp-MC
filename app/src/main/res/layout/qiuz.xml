@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TakeTest">
+    tools:context=".QiuzActivity">
 
     <TextView
         android:id="@+id/textView3"
@@ -44,7 +44,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginBottom="329dp"
         android:gravity="center"
-        android:text="FOR"
+        android:text="Match with image"
         android:textColor="#0D7CD5"
         android:textSize="34sp"
         android:textStyle="bold"
